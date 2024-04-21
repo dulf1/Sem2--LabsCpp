@@ -1,3 +1,0 @@
-C:/Users/dulfi/CLionProjects/sem2lab5OP/cmake-build-debug/CMakeFiles/sem2lab5OP.dir
-C:/Users/dulfi/CLionProjects/sem2lab5OP/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/dulfi/CLionProjects/sem2lab5OP/cmake-build-debug/CMakeFiles/rebuild_cache.dir
