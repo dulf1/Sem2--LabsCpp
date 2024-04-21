@@ -1,0 +1,3 @@
+C:/Users/dulfi/CLionProjects/sem2lab7/cmake-build-debug/CMakeFiles/sem2lab7.dir
+C:/Users/dulfi/CLionProjects/sem2lab7/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/dulfi/CLionProjects/sem2lab7/cmake-build-debug/CMakeFiles/rebuild_cache.dir
